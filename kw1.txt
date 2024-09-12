@@ -1,0 +1,1 @@
+select zespol1, zespol2, wynik, data_rozgrywki from rozgrywka where zespol1="EVG";
